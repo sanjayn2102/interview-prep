@@ -210,4 +210,5 @@ The backend stores:
 
 ## Author
 
-Built as a full-stack interview preparation project using React, Node.js, MongoDB, and OpenAI integration.
+**Sanjay N**  
+GitHub: https://github.com/sanjayn2102
